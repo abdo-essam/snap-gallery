@@ -2,8 +2,16 @@
 
 A modern and intuitive Flutter application for managing your photo gallery. Pick multiple images from your device and display them in a beautiful grid layout.
 
-![Empty State](screenshots/empty_state.png)
-![Gallery View](screenshots/gallery_view.png)
+<table>
+  <tr>
+    <td><img src="screenshots/empty_state.png" width="200"></td>
+    <td><img src="screenshots/gallery_view.png" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Empty State</td>
+    <td align="center">Gallery View</td>
+  </tr>
+</table>
 
 ## Features
 
@@ -13,18 +21,3 @@ A modern and intuitive Flutter application for managing your photo gallery. Pick
 - ❌ Delete images with a single tap
 - 💫 Smooth animations and transitions
 - 🎨 Clean and intuitive interface
-
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK (2.0 or higher)
-- Dart SDK (2.12 or higher)
-- Android Studio / VS Code
-- iOS Simulator / Android Emulator
-
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/snap_gallery.git
